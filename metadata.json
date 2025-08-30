@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Carousel Creator",
+  "description": "An application that automates the creation of image carousels. Users upload a base image for style reference, provide text for each card, and the AI generates visually consistent images. It includes basic editing, an interactive preview, and export options.",
+  "requestFramePermissions": []
+}
